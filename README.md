@@ -6,7 +6,7 @@ Hello !! I am Vishal Patel , I am Undergraduate from Galgotias University. I enj
   <a href="https://github.com/vvishalpatel">
     <img src="https://img.shields.io/github/followers/vvishalpatel?label=GitHub&style=social" alt="GitHub Badge" />
   </a>
- <a href="https://www.linkedin.com/in/vvishalpatel/">
+ <a href="https://www.linkedin.com/in/vishal05patel/">
     <img src="https://github.com/user-attachments/assets/76d8273a-dd89-44f5-a89a-749a7f266ff4" alt="LinkedIn Badge" />
   </a>
 
